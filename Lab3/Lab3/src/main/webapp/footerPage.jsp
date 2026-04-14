@@ -1,16 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Home Use PC
-  Date: 14-Apr-26
-  Time: 3:49 PM
-  To change this template use File | Settings | File Templates.
---%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html>
-  <head>
-    <title>$Title$</title>
-  </head>
-  <body>
-  $END$
-  </body>
-</html>
+
+<div style="background-color: #ffe4c4; padding: 10px; text-align: center; border: 1px solid #ccc; margin-top: 20px;">
+    &copy;2026-Syaffiq
+</div>

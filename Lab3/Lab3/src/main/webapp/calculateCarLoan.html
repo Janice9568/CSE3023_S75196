@@ -1,10 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Car Loan Input</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        fieldset { width: 400px; border: 1px solid #ccc; padding: 15px; }
+        legend { font-weight: bold; }
+        .footer { margin-top: 10px; font-size: 0.9em; }
+    </style>
 </head>
 <body>
+<h2>Perform Car Loan Calculation</h2>
 
+<form action="processCalculateCarLoan.jsp" method="post">
+    <fieldset>
+        <legend>Loan Calculation</legend>
+        <p>
+            Loan Amount * <input type="text" name="loanAmount" placeholder="Amount" required>
+        </p>
+        <p>
+            Period
+            <select name="loanPeriod">
+                <option value="3">3 years</option>
+                <option value="4">4 years</option>
+                <option value="5">5 years</option>
+                <option value="7">7 years</option>
+            </select>
+        </p>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Cancel">
+    </fieldset>
+</form>
+
+<div class="footer">&copy;2026-Soo Yan</div>
 </body>
 </html>
