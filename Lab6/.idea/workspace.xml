@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lab6:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4986d3ff-0d82-47d9-aaae-8c25bcfe357a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/controller/DashboardServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/controller/InventoryServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/controller/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/controller/PaymentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/controller/ProductServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/controller/ReportServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/controller/SalesServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/controller/SupplierServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/filter/AuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/bean/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/bean/InventoryLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/bean/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/bean/Sale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/bean/SaleItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/bean/Supplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/bean/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/dao/ProductDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/dao/ReportDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/dao/SalesDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/dao/SupplierDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/model/dao/UserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/com/retail/util/DBConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/java/me/exmaple/webproject/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/auth/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/common/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/common/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/dashboard.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/inventory/low-stock.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/inventory/stock-update.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/product/product-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/product/product-list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/product/supplier-list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/reports/performance.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/reports/sales-report.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/sales/payment-status.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/sales/pos.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/views/sales/sales-history.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/assets/js/validation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallRetailShopInventorySystem/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebProject_ori/src/main/java/com/retail/controller/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebProject_ori/src/main/java/com/retail/controller/ProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebProject_ori/src/main/java/com/retail/model/dao/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebProject_ori/src/main/java/com/retail/model/dao/ProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebProject_ori/src/main/webapp/WEB-INF/views/product/product-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebProject_ori/src/main/webapp/WEB-INF/views/product/product-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/webapp/currencyConversion.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/webapp/currencyConversion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/webapp/customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/webapp/customer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/webapp/customer1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/webapp/customer1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/webapp/forward.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/webapp/forward.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/webapp/forwardInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/webapp/forwardInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/webapp/insuranceQuotation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/webapp/insuranceQuotation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/webapp/jspParameter.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/webapp/jspParameter.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/webapp/processCurrency.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/webapp/processCurrency.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/webapp/processInsuranceQuo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/webapp/processInsuranceQuo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/webapp/subjectInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/webapp/subjectInfo.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EQ9RIhd9N85Re9x51R0QMdxoX5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat Server.Tomcat 11.0.20.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "v2",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.applicationServers",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\UMT_Projects\Lab6\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+          <value>
+            <map>
+              <entry key="Tomcat 11.0.20" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 11.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.20" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Lab6:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Lab6_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ed58aca2-2994-4186-9bfb-49158f81c935" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Lab6:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4986d3ff-0d82-47d9-aaae-8c25bcfe357a" name="Changes" comment="" />
+      <created>1780099920311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780099920311</updated>
+      <workItem from="1780099922593" duration="58454000" />
+      <workItem from="1780330441557" duration="2441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
